@@ -1,4 +1,3 @@
-# MIST-4610-Project-2
 # Accidental_OD_Deaths
 Analysis of trends amongst accidental overdoses in Connecticut
 # Team name and members
